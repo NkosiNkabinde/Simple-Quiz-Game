@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the correct file extension for Python files?",
+    "choices": [".pyth", ".pt", ".py", ".pyt"],
+    "answer": ".py"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "choices": ["function", "def", "fun", "define"],
+    "answer": "def"
+  },
+  {
+    "question": "How do you insert COMMENTS in Python code?",
+    "choices": ["// This is a comment", "# This is a comment", "/* This is a comment */", "<!-- This is a comment -->"],
+    "answer": "# This is a comment"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "choices": ["List", "Dictionary", "Set", "Tuple"],
+    "answer": "Tuple"
+  },
+  {
+    "question": "What is the output of: print(2 ** 3)?",
+    "choices": ["8", "6", "9", "5"],
+    "answer": "8"
+  },
+  {
+    "question": "Which of the following is a valid variable name in Python?",
+    "choices": ["1variable", "variable_1", "variable-1", "variable 1"],
+    "answer": "variable_1"
+  },
+  {
+    "question": "Which Python keyword is used for conditional branching?",
+    "choices": ["if", "for", "while", "switch"],
+    "answer": "if"
+  },
+  {
+    "question": "What method do you use to convert a string to lowercase in Python?",
+    "choices": ["toLower()", "lowercase()", "lower()", "downcase()"],
+    "answer": "lower()"
+  },
+  {
+    "question": "How do you start a while loop in Python?",
+    "choices": ["while x > 0 {", "while x > 0:", "while (x > 0)", "while x > 0"],
+    "answer": "while x > 0:"
+  },
+  {
+    "question": "What is the output of: print(len('Hello'))?",
+    "choices": ["4", "5", "6", "Error"],
+    "answer": "5"
+  },
+  {
+    "question": "How do you create a list in Python?",
+    "choices": ["list = [1, 2, 3]", "list = (1, 2, 3)", "list = {1, 2, 3}", "list = <1, 2, 3>"],
+    "answer": "list = [1, 2, 3]"
+  },
+  {
+    "question": "What does the 'break' statement do in a loop?",
+    "choices": [
+      "Exits the loop immediately",
+      "Skips the current iteration",
+      "Exits the program",
+      "Pauses the loop"
+    ],
+    "answer": "Exits the loop immediately"
+  },
+  {
+    "question": "What is the output of: print(10 % 3)?",
+    "choices": ["3", "1", "0", "Error"],
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is NOT a Python data structure?",
+    "choices": ["List", "Tuple", "Array", "Dictionary"],
+    "answer": "Array"
+  },
+  {
+    "question": "How do you import a module named 'math' in Python?",
+    "choices": ["import math", "include math", "using math", "#include <math>"],
+    "answer": "import math"
+  },
+  {
+    "question": "Which symbol is used for floor division in Python?",
+    "choices": ["/", "//", "%", "**"],
+    "answer": "//"
+  },
+  {
+    "question": "What will this code print? \n\nx = 5\nif x > 2:\n    print('Greater')\nelse:\n    print('Smaller')",
+    "choices": ["Greater", "Smaller", "Error", "Nothing"],
+    "answer": "Greater"
+  },
+  {
+    "question": "How do you start a for loop that iterates 5 times in Python?",
+    "choices": [
+      "for i in range(5):",
+      "for i=1 to 5:",
+      "for (i=0; i<5; i++)",
+      "for i in 5:"
+    ],
+    "answer": "for i in range(5):"
+  },
+  {
+    "question": "Which function is used to get user input from the console?",
+    "choices": ["input()", "read()", "get()", "console()"],
+    "answer": "input()"
+  },
+  {
+    "question": "What is the output of:\n\nprint(type(3.14))",
+    "choices": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'double'>"],
+    "answer": "<class 'float'>"
+  }
+]
