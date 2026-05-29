@@ -11,12 +11,6 @@ This beginner-friendly project helps you practice Python fundamentals through an
 - [Features](#features)  
 - [Project Structure](#project-structure)  
 - [Setup & Installation](#setup--installation)  
-- [Usage](#usage)  
-- [Quiz Questions](#quiz-questions)  
-- [Extending the Project](#extending-the-project)  
-- [Technologies Used](#technologies-used)  
-- [License](#license)  
-- [Contact](#contact)  
 
 ---
 
