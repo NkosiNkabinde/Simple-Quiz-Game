@@ -3,7 +3,7 @@ import json
 import random
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'  # Replace with a strong secret key in production
+app.secret_key = 'your_secret_key_here'  
 
 # Load questions once at startup
 with open('questions.json', 'r') as f:
