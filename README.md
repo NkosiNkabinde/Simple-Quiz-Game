@@ -1,6 +1,6 @@
 # Python Quiz Game - Flask Web App
 
-Welcome to the Python Quiz Game, a simple web-based multiple-choice quiz built with Flask!  
+A simple web-based multiple-choice quiz built with Flask!  
 This beginner-friendly project helps you practice Python fundamentals through an interactive, browser-accessible quiz.
 
 ---
